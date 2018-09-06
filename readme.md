@@ -11,4 +11,5 @@
 >[react-motion](https://github.com/chenglou/react-motion)  
 >[ant-motion](https://github.com/ant-design/ant-motion)  
 >[velocity-react](https://github.com/google-fabric/velocity-react)  
+>[react-transition-group 动画模块](https://github.com/EastSummer/react16.4_jianshu/blob/master/animate-demo/README.md)  
 >...  
